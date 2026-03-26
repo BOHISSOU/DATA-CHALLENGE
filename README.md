@@ -1,4 +1,4 @@
-# 🏆 Data Battle IA PAU 2026 – Prédiction de la fin des alertes orageuses
+#  Data Battle IA PAU 2026 – Prédiction de la fin des alertes orageuses
 
 ## 👥 Équipe
 - Nom de l’équipe : The Predictors
