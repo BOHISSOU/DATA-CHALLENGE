@@ -5,7 +5,7 @@
 - Membres :
   - BOHISSOU Ibigbé Amour Sabin
   - AGOSSOUVO Tolidji Chantelas Juste
-  - DEFFON Deffongé Flora Fierté
+  - DEFFON Deffongbé Flora Fierté
   - AGBAMATE Paraclet
 ---
 
