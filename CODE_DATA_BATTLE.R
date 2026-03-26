@@ -1,7 +1,6 @@
 
 # ANALYSE DES EPISODES ORAGEUX AUTOUR DES AEROPORTS
 
-
 # Chargement des librairies nécessaires
 library(dplyr)      # manipulation des données
 library(lubridate)  # gestion des dates
