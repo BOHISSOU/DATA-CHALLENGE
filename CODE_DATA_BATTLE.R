@@ -4,9 +4,7 @@ head(data)
 data
 library(dplyr)
 library(lubridate)
-
-library(dplyr)
-library(lubridate)
+library(ggplot2)
 
 data$date <- ymd_hms(data$date)
 
@@ -54,7 +52,7 @@ storm_data %>%
     amp      = mean(amp_mean),
     dispersion = mean(azimuth_sd)
   )
-library(ggplot2)
+
 
 ggplot(storm_data, aes(duration_min, n_lightning, color = factor(cluster))) +
   geom_point(size = 2) +
