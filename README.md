@@ -71,4 +71,8 @@ Cette approche permet :
 - Git
 
 ### Installation
+Cloner le repository :
 
+```bash
+git clone https://github.com/BOHISSOU/DATA-CHALLENGE
+cd databattle-orage
