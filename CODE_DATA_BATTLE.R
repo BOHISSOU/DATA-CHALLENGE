@@ -1,10 +1,10 @@
-data <- read.csv("segment_alerts_all_airports_train.csv")
-View(data)
-head(data)
-data
 library(dplyr)
 library(lubridate)
 library(ggplot2)
+
+data <- read.csv("segment_alerts_all_airports_train.csv")
+View(data)
+head(data)
 
 data$date <- ymd_hms(data$date)
 
