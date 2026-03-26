@@ -72,8 +72,3 @@ Cette approche permet :
 
 ### Installation
 
-Cloner le repository :
-
-```bash
-git clone https://github.com/username/databattle-orage.git
-cd databattle-orage
