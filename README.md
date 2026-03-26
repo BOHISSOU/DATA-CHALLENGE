@@ -1,6 +1,6 @@
 #  Data Battle IA PAU 2026 – Prédiction de la fin des alertes orageuses
 
-## 👥 Équipe
+##  Équipe
 - Nom de l’équipe : The Predictors
 - Membres :
   - BOHISSOU Ibigbé Amour Sabin
@@ -9,7 +9,7 @@
   - AGBAMATE Paraclet
 ---
 
-## 🎯 Problématique
+## Problématique
 
 Les infrastructures sensibles comme les aéroports doivent interrompre certaines opérations lors des épisodes orageux afin de garantir la sécurité des personnels et des équipements.  
 Si l’anticipation de l’arrivée des orages est aujourd’hui relativement maîtrisée, l’estimation précise du moment de leur dissipation reste un défi majeur.
@@ -20,7 +20,7 @@ L’objectif de ce projet est de développer un modèle prédictif probabiliste 
 
 ---
 
-## 💡 Solution proposée
+##  Solution proposée
 
 Nous proposons une architecture hybride combinant :
 
@@ -37,7 +37,7 @@ Cette approche permet :
 
 ---
 
-## ⚙️ Stack technique
+##  Stack technique
 
 - **Langages :**
   - R
@@ -62,7 +62,7 @@ Cette approche permet :
 
 ---
 
-## 🚀 Installation & exécution
+##  Installation & exécution
 
 ### Prérequis
 
